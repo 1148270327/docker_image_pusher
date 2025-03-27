@@ -4,5 +4,7 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # my
 #--platform=linux/amd64 qwenllm/qwenvl:2.5-cu121
-qwenllm/qwenvl:2.5-cu121
-ollama/ollama:0.6.3-rc0
+#qwenllm/qwenvl:2.5-cu121
+#ollama/ollama:0.6.3-rc0
+milvusdb/milvus:v2.5.7
+
